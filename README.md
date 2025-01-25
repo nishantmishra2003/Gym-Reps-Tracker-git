@@ -21,7 +21,7 @@ Technologies Used 🛠️
 
 Installation ⚙️
 1. Clone the repository:
-   git clone https://github.com/your-username/gym-reps-tracker.git
+   git clone https://github.com/nishantmishra2003/Gym-Reps-Tracker-git.git
    cd gym-reps-tracker
 2. Create a virtual environment and activate it:
    python -m venv venv
